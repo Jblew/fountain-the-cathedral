@@ -109,3 +109,45 @@ I used diamond hole-saws together with constant water flow (using 450l/h pump). 
 
 
 
+## Todo
+
+**Structure:**
+
+1. Stabillise rods that are supporting the stones with:
+   1. (either) small welded horizontal rods
+   2. (either) use multiple convolutions of thick nickel plated wire attached with nuts and glue shaped into ivory-like structure
+   3. (either) use thick barbed wire attached with nuts and glue
+2. Apply rusting mixture to rust the rods. (If using nickel wires to stabilise the supporting rods: scratch the nickel wires with coarse-grained emery paper). Then secure the rust with water resistant transparent (and nonglowing!) coat.
+
+
+
+**Cathedral:**
+
+1. Coat the cathedral with copper wire of decreasing sizes
+2. Design and build the Altar
+3. Design 3D model of the Priest and order it
+4. Design 3D model of Saint Ismir's grave
+5. Form and attach a Cross on the top
+6. Distort the shape of the fully assembled cathedral so that it looks haunted and almost falling
+7. Apply blue-copper-corrosion mixture and secure with transparent (glowing!) coating
+
+
+
+**Water system:**
+
+1. Choose and buy flowerpot for a tank
+2. Design and assembly water automation
+3. shape the waterfall edge to ensure that water is flowing into the tank without spilling
+
+
+
+**Plants:**
+
+1. Buy and attach Hedera helix ivory (darkest possible shade of the leaves)
+2. Design and assembly ivory watering system
+
+
+
+**Target site assembly:**
+
+1. Mount black glass to the wall behind the fountain to prevent destroying wall plaster, also if the background is black and glowing:  the base, rods, ivory, the stones will be less striking while emphasizing the blue-and-ginger glowing cathedral.
