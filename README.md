@@ -49,6 +49,13 @@ I used diamond hole-saws together with constant water flow (using 450l/h pump). 
 
 [See photos](./stage_3/photos.md)
 
+**Done:**
+
+1. I drilled the "magnum foramen" through the centre of the bigger stone. Because of the limited length of the hole-saws I had to mark the position stereotactically and then drill separate holes on each side. Then I used a hammer and steel rods to carefoully chisel the remaining stone from inside.
+2. On the upper side I widened the foramen opening using diamond mills (spindle- and ball-shaped). Thanks to that I achived an "anxious" look of the dark and deep hole. What is more — thanks to the wide opening — woter that is flowing upwards through the tunnel doesn't "shoot" in a fountain-like manner. Instead it flows slowly.
+3. I drilled many glens, gorgens and faults to guide the direction of water flow. After the procedures water is flowing only in the front direction spreading into an elegant and majestic delta.
+4. I drilled supporting tunnels that connect with the main foramen and open on the front waterfall. The idea is to have limited amount of water flowing through the floor of the cathedral while maintaining high flow through the waterfall.
+
 
 
 ### Stage 4
