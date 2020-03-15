@@ -20,7 +20,7 @@ They have already used three art techniques: architecture, literature and digita
 
 ### Stage 1
 
-[See photos](./Stage 1/photos.md)
+[See photos](./stage_1/photos.md)
 
 
 
