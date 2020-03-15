@@ -22,11 +22,26 @@ They have already used three art techniques: architecture, literature and digita
 
 [See photos](./stage_1/photos.md)
 
+**Done**:
+
+1. Built cathedral backbone of copper wire
+2. Secured the backbone with styro foam
+
 
 
 ### Stage 2
 
 [See photos](./stage_2/photos.md)
+
+**Done:**
+
+1. Selected and prepared 2 granite stones
+2. Drilled fi12mm holes for the supporting rods (3 holes in the smaller stone and 7 in the bigger one)
+3. Drilled 19 fi8mm holes to attach the cathedral building
+
+**Comment:**
+
+I used diamond hole-saws together with constant water flow (using 450l/h pump). Despite using the maximum rotation speed of the driller it took more than 16 hours to drill all the holes. During the drilling I destroyed 4 saws.
 
 
 
