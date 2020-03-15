@@ -77,15 +77,35 @@ I used diamond hole-saws together with constant water flow (using 450l/h pump). 
 
 [See photos](./stage_5/photos.md)
 
+**Done:**
 
+1. Built temporary base mad of three old wooden 600x600 shelves
+2. Assembled base and the stones on the rods in a vertical position
+3. Connected the pump to the bottom tunnel to test the waterflow
+4. Using diamond mills I deepened the glens to guide the waterflow in a more even way
+5. Sharpened the bottom edge of the fall to prevent water underflowing (and thus corroding the steel rods) 
 
 ### Stage 6
 
 [See photos](./stage_6/photos.md)
+
+**Done:**
+
+1. Cleaned the stones with pressure cleaner
+2. Removed stone impurities with diamond and corund mills
+3. Glued the cathedral backbone using poxillin glue
 
 
 
 ### Stage 7
 
 [See photos](./stage_7/photos.md)
+
+**Done:**
+
+1. Removed the temorary base
+2. Built a new base made of 4x 18mm plywood planes and applied a black glass ontop of that
+3. Attached 8 aluminium u-profiles to separate the plywood from the floor.
+
+
 
