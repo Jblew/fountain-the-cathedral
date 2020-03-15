@@ -62,6 +62,15 @@ I used diamond hole-saws together with constant water flow (using 450l/h pump). 
 
 [See photos](./stage_4/photos.md)
 
+**Done:**
+
+1. First, I encountered a problem of creating a plane model of holes of the bottom side of both stones. When I was drilling them they often were misplaced compared to the original stencil. I had to position the stones correctly and then somehow create another plain stencil. Positioning was demanding since the stones are very heavy. i used wooden blocks and old clothes to precisely position them. To create a stencil I put a huge transparent acrylic glass onto the stones. Using a laser (which I ensured that was staying in a perfectly right angle to the glass) I ensured that the laser dot appears exactly in the middle of each hole. Then I marked the laser spots on the glass. Next step was to drill the holes through the acrylic and copy the appertures of the holes to a semi-transparent engineering paper.
+2. Using the stencils I drilled the same set of holes in a wooden 600x600mm shelf which then I hanged above the stones. I inserted fi12mm rods both into the wells in the stones and the holes in the hanging piece of wood. I had to position it using steel wires attached to the ceiling and walls. I used level tool a lot to ensure that all the angles are correctly positioned.
+3. I marked the position of the wooden plane on the rods, labelled them with numbers (put the same numbers on the stencil) — and then I cut each rod to end at the exact position of the plane. 
+4. After I had each rod lengthened properly  I secured them to the plane with nuts and steel rings which also prevented the plane from oscillating on the steel wires.
+5. Then the most time consuming process begun. I had to attach the rods to the stone in an extremly strong and reliable manner. The best idea that appealed to me was to use a "chemical anchor". After studying chemical and physical specs of several of such products I bought a Pattex chemical anchor that was waterproof and was designed exactly for connecting steel and stone. A chemical anchor consists of two ingredients that mix up in a special mixer attached at the end of aplying tool and then are applied directly into the holes.
+6. Over the next 4 weekends I was unscrewing 3 rods each time and apply the chemical anchor. Then I needed to leave it for about 18 hours to get a strong bond. Almost half of them didn't mount securely at the first appliance and I had to clean the holes, drill-out the artificial sand and apply it one more time.
+
 
 
 ### Stage 5
