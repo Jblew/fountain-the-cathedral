@@ -109,6 +109,55 @@ I used diamond hole-saws together with constant water flow (using 450l/h pump). 
 
 
 
+### Stage 8
+
+1. Designed a way to quickly attach nuts
+
+
+
+## Plans
+
+### Steel rods stabilisers
+
+Position of holes (relative to the base — left,deep):
+
+1. 160,302 = 302-160 => 160,142
+2. 253,373
+3. 298,279
+4. 275,157
+5. 413,151
+6. 494,177
+7. 430,279
+8. 78,249
+9. 102,169
+10. 169,157
+
+
+
+Todo:
+
+1. Design shape (CAD files?) of the stabilising plates
+
+
+
+## Water reservoir
+
+Made of flower pot:
+
+Candidates:
+
+1. https://sklep.polnix.com.pl/pl/p/95.010/144
+   1. czarna, włókno szklane
+   2. 2,9kg, 70l, tj razem z wodą max 70/2+2,9=37,9kg
+   3. w=600,d=300,h=390 [mm]
+2. https://sklep.polnix.com.pl/pl/p/95.038/133 (jw, ale z nóżkami)
+
+TODO:
+
+1. Design support/fulcrum for the pot (should be anchored in the wooden base and do not burden the glass plane)ś
+
+
+
 ## Todo
 
 **Structure:**
