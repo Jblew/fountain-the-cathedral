@@ -136,7 +136,7 @@ Position of holes (relative to the base — left,deep):
 
 Todo:
 
-1. Design shape (CAD files?) of the stabilising plates
+1. Order steel stabilisers
 
 
 
