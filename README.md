@@ -111,7 +111,26 @@ I used diamond hole-saws together with constant water flow (using 450l/h pump). 
 
 ### Stage 8
 
+(no photos)
+
 1. Designed a way to quickly attach nuts
+2. Disassembled old base
+3. Covered the entire monument with foil to protect it for the winter (it sits outside)
+4. Ordered steel plates to stabilise the rods that support the heavy rocks. I designed an SVG then converted it to CAD file (with some minor adjustments). I ordered laser cutting of 6mm black steel (should get covered with rust very quickly!)
+5. Ordered the flowerpot which will be the water reservoir. I have choosen a 300x600x390 one, made of fiberglass with very shiny finish. It's said to be very durable yet it weights only 4kg (compared to concrete ones which (at the same size) weight around 30kg)
+
+
+
+### Stage 9
+
+1. Designed and ordered laser-cut steel support plates for water reservoir. Still not assembled
+
+
+
+### State 10
+
+1. Designing and planning waterfall disperser
+2. Main idea: ceramic maple leaves
 
 
 
@@ -167,6 +186,33 @@ TODO:
    2. (either) use multiple convolutions of thick nickel plated wire attached with nuts and glue shaped into ivory-like structure
    3. (either) use thick barbed wire attached with nuts and glue
 2. Apply rusting mixture to rust the rods. (If using nickel wires to stabilise the supporting rods: scratch the nickel wires with coarse-grained emery paper). Then secure the rust with water resistant transparent (and nonglowing!) coat.
+
+
+
+## Pipes
+
+Pump circuit:
+
+1. - [x] Nypel 1/2" -> 3/4" m/m
+2. - [x] Wąż 3/4" f/f 30cm (internal fi 19mm)
+3. - [x] Nypel 3/4" m/m
+4. - [x] Redukcja nypel 3/4" -> mufa 1"
+5. - [x] Przepust m1" -> f3/4"
+6. - [x] Nypel 3/4" m/m
+7. - [x] Wąż 3/4" f/f 100cm (internal fi 19mm)
+8. - [x] Nypel m3/4" -> f1/2"
+9. - [x] Nypel 1/2" -> plastik 13mm (dołączony do pompy)
+
+
+
+Reservoir refill circuit
+
+1. - [x] 2x Przepust f1/2" -> m3/4"
+2. - [x] 2x Wąż 3/4" f/f 50cm (internal fi 19mm)
+3. - [x] 2x Nypel m3/4" -> f1/2"
+4. - [x] 2x elektrozawór 1/2" m/m
+5. - [x] 2x zawór kulowy 1/2" f/m
+6. - [x] 2x wąż 1/2" 150cm m/m
 
 
 
