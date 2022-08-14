@@ -123,14 +123,53 @@ I used diamond hole-saws together with constant water flow (using 450l/h pump). 
 
 ### Stage 9
 
+TODO photos
+
 1. Designed and ordered laser-cut steel support plates for water reservoir. Still not assembled
 
 
 
-### State 10
+### Stage 10
+
+(no photos)
 
 1. Designing and planning waterfall disperser
 2. Main idea: ceramic maple leaves
+
+
+
+### Stage 11
+
+Plan:
+
+1. Assemble reservoir circuit
+   1. Plan hole positions
+   2. Make holes
+   3. Apply liquid rubber isolation
+   4. Attach electric & water culverts to the reservoir
+2. Build reservoir support
+   1. Plan height & lengths of rods
+   2. Cut feet rods
+   3. Make feet holes in the base glass
+   4. Make feet holes in the base plywood
+   5. Screw on feet rods
+3. Build electric 
+4. Assemble major parts together
+   1. Attach steel stabilisers to the long rods
+   2. Attach base to the long rods
+   3. Attach reservoir
+
+
+
+## Setting
+
+width: 75cm wall + 7cm door border
+
+![1](./setting/1.jpg)
+
+![2](./setting/2.jpg)
+
+
 
 
 
@@ -161,8 +200,6 @@ Todo:
 
 ## Water reservoir
 
-Made of flower pot:
-
 Candidates:
 
 1. https://sklep.polnix.com.pl/pl/p/95.010/144
@@ -173,7 +210,9 @@ Candidates:
 
 TODO:
 
-1. Design support/fulcrum for the pot (should be anchored in the wooden base and do not burden the glass plane)ś
+1. Design support/fulcrum for the pot (should be anchored in the wooden base and do not burden the glass plane)
+
+
 
 
 
@@ -189,17 +228,19 @@ TODO:
 
 
 
-## Pipes
+## Water circuit
+
+![Reservoir](./reservoir.svg)
 
 Pump circuit:
 
 1. - [x] Nypel 1/2" -> 3/4" m/m
-2. - [x] Wąż 3/4" f/f 30cm (internal fi 19mm)
+2. - [x] Wąż 3/4" f/f 100cm (internal fi 19mm)
 3. - [x] Nypel 3/4" m/m
 4. - [x] Redukcja nypel 3/4" -> mufa 1"
 5. - [x] Przepust m1" -> f3/4"
 6. - [x] Nypel 3/4" m/m
-7. - [x] Wąż 3/4" f/f 100cm (internal fi 19mm)
+7. - [x] Wąż 3/4" f/f 30cm (internal fi 19mm)
 8. - [x] Nypel m3/4" -> f1/2"
 9. - [x] Nypel 1/2" -> plastik 13mm (dołączony do pompy)
 

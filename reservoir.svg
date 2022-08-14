@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 9934 7016" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
+    <g id="Zbiornik" transform="matrix(2.27773,0,0,1.63028,-8276.71,-3015.81)">
+        <path d="M6196.7,2189.99L6196.7,5015.45L7752.33,5015.45L7752.33,2189.99" style="fill:none;stroke:black;stroke-width:47.71px;"/>
+    </g>
+    <g id="Reservoir-up" serif:id="Reservoir up">
+        <g id="Przepust-f1-2-----m3-4-" serif:id="Przepust f1/2&quot; -&gt; m3/4&quot;" transform="matrix(0.582173,0,0,1,6312.29,2730.64)">
+            <path d="M631.517,2522.1L245.034,2522.1L308.804,2338.22L567.747,2338.22L631.517,2522.1Z" style="fill:rgb(133,98,68);"/>
+        </g>
+        <g id="Nypel-m3-4-----f1-2-" serif:id="Nypel m3/4&quot; -&gt; f1/2&quot;" transform="matrix(3.56478e-17,-0.582173,1,6.12323e-17,1680.46,6811.82)">
+            <path d="M631.517,2522.1L245.034,2522.1L308.804,2338.22L567.747,2338.22L631.517,2522.1Z" style="fill:rgb(133,98,68);"/>
+        </g>
+        <g id="elektrozawór-1-2--m-m" serif:id="elektrozawór 1/2&quot; m/m" transform="matrix(1,0,0,1,324.893,1320.87)">
+            <g id="elektrozawór-1-2--m-m1" serif:id="elektrozawór 1/2&quot; m/m" transform="matrix(0.452141,0,0,0.974157,1583.97,133.368)">
+                <rect x="2891.2" y="5160.8" width="1775.09" height="153.979" style="fill:rgb(68,80,133);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-215.982,32.3518)">
+                <rect x="3151.38" y="5157.4" width="715.853" height="90.788" style="fill:white;"/>
+                <text x="3151.38px" y="5228.66px" style="font-family:'OpenSans-Regular', 'Open Sans', sans-serif;font-size:66.667px;fill:rgb(38,38,38);">elektrozawór 1/2&quot; m/m</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-477.699,1320.87)">
+            <g id="elektrozawór-1-2--m-m2" serif:id="elektrozawór 1/2&quot; m/m" transform="matrix(0.452141,0,0,0.974157,1583.97,133.368)">
+                <rect x="2891.2" y="5160.8" width="1775.09" height="153.979" style="fill:rgb(118,68,133);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-215.982,32.3518)">
+                <rect x="3151.38" y="5157.4" width="694.564" height="90.788" style="fill:white;"/>
+                <text x="3151.38px" y="5228.66px" style="font-family:'OpenSans-Regular', 'Open Sans', sans-serif;font-size:66.667px;fill:rgb(38,38,38);">zawór kulowy 1/2&quot; f/m</text>
+            </g>
+        </g>
+        <g id="Wąż-3-4--f-f-50cm--internal-fi-19mm-" serif:id="Wąż 3/4&quot; f/f 50cm (internal fi 19mm)" transform="matrix(3.90559,0,0,1,-20516.2,-407.841)">
+            <path d="M6356.7,6964.51C6681.26,6872.79 6568.55,6934.87 6934.6,5660.58" style="fill:none;stroke:rgb(133,98,68);stroke-width:78.93px;stroke-linecap:round;stroke-linejoin:round;"/>
+        </g>
+        <g id="wąż-1-2--150cm-m-m" serif:id="wąż 1/2&quot; 150cm m/m" transform="matrix(1,0,0,1,510.285,335.886)">
+            <path d="M1850.75,6220.79L430.345,6220.79" style="fill:none;stroke:rgb(133,98,68);stroke-width:150px;stroke-linecap:round;stroke-linejoin:round;"/>
+        </g>
+    </g>
+    <g id="Reservoir-down" serif:id="Reservoir down">
+        <g id="Nypel-m3-4-----f1-2-1" serif:id="Nypel m3/4&quot; -&gt; f1/2&quot;" transform="matrix(3.56478e-17,-0.582173,1,6.12323e-17,1171.69,6475.94)">
+            <path d="M631.517,2522.1L245.034,2522.1L308.804,2338.22L567.747,2338.22L631.517,2522.1Z" style="fill:rgb(133,98,68);"/>
+        </g>
+        <g id="Przepust-f1-2-----m3-4-1" serif:id="Przepust f1/2&quot; -&gt; m3/4&quot;" transform="matrix(0.582173,0,0,1,5910.81,2730.64)">
+            <path d="M631.517,2522.1L245.034,2522.1L308.804,2338.22L567.747,2338.22L631.517,2522.1Z" style="fill:rgb(133,98,68);"/>
+        </g>
+        <g id="elektrozawór-1-2--m-m3" serif:id="elektrozawór 1/2&quot; m/m" transform="matrix(1,0,0,1,-183.875,984.987)">
+            <g id="elektrozawór-1-2--m-m4" serif:id="elektrozawór 1/2&quot; m/m" transform="matrix(0.452141,0,0,0.974157,1583.97,133.368)">
+                <rect x="2891.2" y="5160.8" width="1775.09" height="153.979" style="fill:rgb(68,80,133);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-215.982,32.3518)">
+                <rect x="3151.38" y="5157.4" width="715.853" height="90.788" style="fill:white;"/>
+                <text x="3151.38px" y="5228.66px" style="font-family:'OpenSans-Regular', 'Open Sans', sans-serif;font-size:66.667px;fill:rgb(38,38,38);">elektrozawór 1/2&quot; m/m</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,-986.467,984.987)">
+            <g id="elektrozawór-1-2--m-m5" serif:id="elektrozawór 1/2&quot; m/m" transform="matrix(0.452141,0,0,0.974157,1583.97,133.368)">
+                <rect x="2891.2" y="5160.8" width="1775.09" height="153.979" style="fill:rgb(118,68,133);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-215.982,32.3518)">
+                <rect x="3151.38" y="5157.4" width="694.564" height="90.788" style="fill:white;"/>
+                <text x="3151.38px" y="5228.66px" style="font-family:'OpenSans-Regular', 'Open Sans', sans-serif;font-size:66.667px;fill:rgb(38,38,38);">zawór kulowy 1/2&quot; f/m</text>
+            </g>
+        </g>
+        <g id="Wąż-3-4--f-f-50cm--internal-fi-19mm-1" serif:id="Wąż 3/4&quot; f/f 50cm (internal fi 19mm)" transform="matrix(3.90559,0,0,1,-21030.2,-743.727)">
+            <path d="M6356.7,6964.51C6681.26,6872.79 6597.36,7270.76 6963.4,5996.47" style="fill:none;stroke:rgb(133,98,68);stroke-width:78.93px;stroke-linecap:round;stroke-linejoin:round;"/>
+        </g>
+        <path id="wąż-1-2--150cm-m-m1" serif:id="wąż 1/2&quot; 150cm m/m" d="M1850.75,6220.79L430.345,6220.79" style="fill:none;stroke:rgb(133,98,68);stroke-width:150px;stroke-linecap:round;stroke-linejoin:round;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-146.924,-39.9537)">
+        <g transform="matrix(1,0,0,2.33675,2735.99,-3473.11)">
+            <rect x="3146.86" y="3507.87" width="1369.18" height="103.986" style="fill:rgb(76,255,49);"/>
+        </g>
+        <g transform="matrix(1.98684,0,0,1.98684,-6115.09,-4727.74)">
+            <text x="6122.42px" y="4831.2px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">Czujnik poziomu cieczy</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-146.924,-1027.26)">
+        <g transform="matrix(1,0,0,2.33675,2735.99,-3473.11)">
+            <rect x="3146.86" y="3507.87" width="1369.18" height="103.986" style="fill:rgb(76,255,49);"/>
+        </g>
+        <g transform="matrix(1.98684,0,0,1.98684,-6115.09,-4727.74)">
+            <text x="6122.42px" y="4831.2px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">Czujnik poziomu cieczy</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-186.7,-3452.88)">
+        <g transform="matrix(1,0,0,2.33675,2735.99,-3473.11)">
+            <rect x="3146.86" y="3507.87" width="1369.18" height="103.986" style="fill:rgb(76,255,49);"/>
+        </g>
+        <g transform="matrix(1.98684,0,0,1.98684,-6115.09,-4727.74)">
+            <text x="6122.42px" y="4831.2px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">Czujnik poziomu cieczy</text>
+        </g>
+    </g>
+    <g id="Przepust-kabla-pompy" serif:id="Przepust kabla pompy" transform="matrix(1,0,0,1,-186.7,-4058.66)">
+        <g transform="matrix(1,0,0,1.16837,2735.99,625.394)">
+            <rect x="3146.86" y="3507.87" width="1369.18" height="103.986" style="fill:rgb(0,255,122);"/>
+        </g>
+        <g transform="matrix(1.98684,0,0,1.98684,-6254.01,-4795.24)">
+            <text x="6122.42px" y="4831.2px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:37.748px;">Przepust kabla pompy</text>
+        </g>
+    </g>
+    <g id="Przepust-kabla-pompy1" serif:id="Przepust kabla pompy" transform="matrix(1,0,0,1,-186.7,-3886.91)">
+        <g transform="matrix(1,0,0,1.16837,2735.99,625.394)">
+            <rect x="3146.86" y="3507.87" width="1369.18" height="103.986" style="fill:rgb(0,255,122);"/>
+        </g>
+        <g transform="matrix(1.98684,0,0,1.98684,-6254.01,-4795.24)">
+            <text x="6122.42px" y="4831.2px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:37.748px;">Przepust kabla ﬁltra</text>
+        </g>
+    </g>
+    <g id="Przepust-kabla-pompy2" serif:id="Przepust kabla pompy" transform="matrix(1,0,0,1,-186.7,-3712.74)">
+        <g transform="matrix(1,0,0,1.16837,2735.99,625.394)">
+            <rect x="3146.86" y="3507.87" width="1369.18" height="103.986" style="fill:rgb(0,255,122);"/>
+        </g>
+        <g transform="matrix(1.98684,0,0,1.98684,-6254.01,-4795.24)">
+            <text x="6122.42px" y="4831.2px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:37.748px;">Przepust kabla czujnika jakości wody</text>
+        </g>
+    </g>
+    <g transform="matrix(1.11052,0,0,1.11052,3799.81,-300.48)">
+        <circle cx="4444.66" cy="4340.02" r="521.879" style="fill:rgb(255,171,49);"/>
+        <g transform="matrix(1,0,0,1,15.2353,60.872)">
+            <text x="4165.74px" y="4331.38px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:145.833px;">POMP<tspan x="4584.37px " y="4331.38px ">A</tspan></text>
+        </g>
+    </g>
+</svg>
